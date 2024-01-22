@@ -25,4 +25,4 @@ The model achieves an accuracy of 87% on the test set. For detailed performance 
 
 ## View On Kaggle
 You can also check out this Notebook on Kaggle using following link:
-https://www.kaggle.com/code/sharduljoshi29/pneumonia-classification-using-cnn/notebook
+https://www.kaggle.com/code/sharduljoshi29/pizza-or-not-pizza-using-cnn
